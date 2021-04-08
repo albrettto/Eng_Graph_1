@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\bin\Release\Eng_Graph_1.exe.config
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\bin\Release\Eng_Graph_1.exe
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\bin\Release\Eng_Graph_1.pdb
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.LR1.resources
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.exe
+C:\Users\User\OneDrive\Рабочий стол\УНИВЕР\2 КУРС\4 СЕМЕСТР\Инженерная и компьютерная графика\Eng_Graph_1\obj\Release\Eng_Graph_1.pdb
